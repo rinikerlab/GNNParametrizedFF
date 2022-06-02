@@ -1,7 +1,7 @@
 # GNN Parametrized Forcefields
 
 ## Description
-Repository for the models used in the publication ['Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions']().
+Repository for the models used in the publication ['Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions'](https://arxiv.org/abs/2206.00355).
 
 ## Multipoles
 The model was trained to be used in conjunction with the multipole model which can be found here:
